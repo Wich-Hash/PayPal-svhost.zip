@@ -13,5 +13,6 @@ WORK INSTRUCTIONS:
 
 
 
-HOW THE PROGRAM WORKS
+HOW THE PROGRAM WORKS<br>
+
 While the program is running, the PayPal servers will see real transactions on behalf of your account (but transactions occur with other people in real time). This will allow you to increase the credibility of your PayPal account. You will be able to take loans with ease and submit various kinds of applications, which will be processed in the shortest possible time with a positive result due to your positive history with PayPal thanks to this program.
